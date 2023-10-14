@@ -1,0 +1,14 @@
+C:\Users\levgl\Desktop\Abeme\bin\Debug\net6.0\Abeme.exe
+C:\Users\levgl\Desktop\Abeme\bin\Debug\net6.0\Abeme.deps.json
+C:\Users\levgl\Desktop\Abeme\bin\Debug\net6.0\Abeme.runtimeconfig.json
+C:\Users\levgl\Desktop\Abeme\bin\Debug\net6.0\Abeme.dll
+C:\Users\levgl\Desktop\Abeme\bin\Debug\net6.0\Abeme.pdb
+C:\Users\levgl\Desktop\Abeme\obj\Debug\net6.0\Abeme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levgl\Desktop\Abeme\obj\Debug\net6.0\Abeme.AssemblyInfoInputs.cache
+C:\Users\levgl\Desktop\Abeme\obj\Debug\net6.0\Abeme.AssemblyInfo.cs
+C:\Users\levgl\Desktop\Abeme\obj\Debug\net6.0\Abeme.csproj.CoreCompileInputs.cache
+C:\Users\levgl\Desktop\Abeme\obj\Debug\net6.0\Abeme.dll
+C:\Users\levgl\Desktop\Abeme\obj\Debug\net6.0\refint\Abeme.dll
+C:\Users\levgl\Desktop\Abeme\obj\Debug\net6.0\Abeme.pdb
+C:\Users\levgl\Desktop\Abeme\obj\Debug\net6.0\Abeme.genruntimeconfig.cache
+C:\Users\levgl\Desktop\Abeme\obj\Debug\net6.0\ref\Abeme.dll

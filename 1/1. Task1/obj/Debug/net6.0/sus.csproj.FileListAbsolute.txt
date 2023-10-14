@@ -1,0 +1,14 @@
+C:\Users\levgl\Desktop\sus\bin\Debug\net6.0\sus.exe
+C:\Users\levgl\Desktop\sus\bin\Debug\net6.0\sus.deps.json
+C:\Users\levgl\Desktop\sus\bin\Debug\net6.0\sus.runtimeconfig.json
+C:\Users\levgl\Desktop\sus\bin\Debug\net6.0\sus.dll
+C:\Users\levgl\Desktop\sus\bin\Debug\net6.0\sus.pdb
+C:\Users\levgl\Desktop\sus\obj\Debug\net6.0\sus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levgl\Desktop\sus\obj\Debug\net6.0\sus.AssemblyInfoInputs.cache
+C:\Users\levgl\Desktop\sus\obj\Debug\net6.0\sus.AssemblyInfo.cs
+C:\Users\levgl\Desktop\sus\obj\Debug\net6.0\sus.csproj.CoreCompileInputs.cache
+C:\Users\levgl\Desktop\sus\obj\Debug\net6.0\sus.dll
+C:\Users\levgl\Desktop\sus\obj\Debug\net6.0\refint\sus.dll
+C:\Users\levgl\Desktop\sus\obj\Debug\net6.0\sus.pdb
+C:\Users\levgl\Desktop\sus\obj\Debug\net6.0\sus.genruntimeconfig.cache
+C:\Users\levgl\Desktop\sus\obj\Debug\net6.0\ref\sus.dll

@@ -1,0 +1,14 @@
+C:\Users\levgl\Desktop\Abube\bin\Debug\net6.0\Abube.exe
+C:\Users\levgl\Desktop\Abube\bin\Debug\net6.0\Abube.deps.json
+C:\Users\levgl\Desktop\Abube\bin\Debug\net6.0\Abube.runtimeconfig.json
+C:\Users\levgl\Desktop\Abube\bin\Debug\net6.0\Abube.dll
+C:\Users\levgl\Desktop\Abube\bin\Debug\net6.0\Abube.pdb
+C:\Users\levgl\Desktop\Abube\obj\Debug\net6.0\Abube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levgl\Desktop\Abube\obj\Debug\net6.0\Abube.AssemblyInfoInputs.cache
+C:\Users\levgl\Desktop\Abube\obj\Debug\net6.0\Abube.AssemblyInfo.cs
+C:\Users\levgl\Desktop\Abube\obj\Debug\net6.0\Abube.csproj.CoreCompileInputs.cache
+C:\Users\levgl\Desktop\Abube\obj\Debug\net6.0\Abube.dll
+C:\Users\levgl\Desktop\Abube\obj\Debug\net6.0\refint\Abube.dll
+C:\Users\levgl\Desktop\Abube\obj\Debug\net6.0\Abube.pdb
+C:\Users\levgl\Desktop\Abube\obj\Debug\net6.0\Abube.genruntimeconfig.cache
+C:\Users\levgl\Desktop\Abube\obj\Debug\net6.0\ref\Abube.dll
