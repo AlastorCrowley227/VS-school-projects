@@ -61,7 +61,6 @@
                     S += c;
                 break;
                 }
-            // } while (n > a || n == a);
 
             sus:
             Console.WriteLine("Сумма: " + S);
