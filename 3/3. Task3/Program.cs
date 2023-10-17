@@ -45,13 +45,14 @@
 
                         case 1:
                             S -= c;
+                            n = 0;
                             break;
 
                         case 2:
                             S -= c;
                             c += 2;
                             S += c;
-                            break;
+                            goto sus;
 
                         case 3:
                             S -= c;
@@ -59,6 +60,7 @@
                             S += c;
                             c += 2;
                             S += c;
+                            n = 0;
                             break;
                     }
                 }
